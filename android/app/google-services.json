@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "659729425136",
+    "project_id": "phenom2025-13186",
+    "storage_bucket": "phenom2025-13186.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659729425136:android:5922c0288d0ee8b2819835",
+        "android_client_info": {
+          "package_name": "com.dkeystack.phenom2025"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQfeS-W1tlBFuhXT63IKW-6grJP-GERrA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
